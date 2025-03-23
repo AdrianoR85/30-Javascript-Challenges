@@ -8,6 +8,7 @@ Welcome to my 30 JavaScript Challenge repository! 🚀 This is where I'll be pos
 ---
 
 ## 🚀 Getting Started
-- **01 Challenge:** Write a function that takes any number of integer arguments and returns the arithmetic mean of them. 
+- **01 Challenge:** Helping the Academy
+- **02 Challenge:** Recursive Procedure 1 
 
 

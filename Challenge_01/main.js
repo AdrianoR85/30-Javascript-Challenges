@@ -1,7 +1,6 @@
 /*
-Escreva uma função que recebe um número qualquer de
-números inteiros como argumentos e retorne a média
-aritmética entre eles.
+Write a function that receives a any number of integer numbers as arguments 
+and return their arithmetic mean
 */
 
 function average(numbers) {
