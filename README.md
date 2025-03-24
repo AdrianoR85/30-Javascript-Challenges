@@ -9,6 +9,7 @@ Welcome to my 30 JavaScript Challenge repository! 🚀 This is where I'll be pos
 
 ## 🚀 Getting Started
 - **01 Challenge:** Helping the Academy
-- **02 Challenge:** Recursive Procedure 1 
+- **02 Challenge:** Recursive Procedure 1
+- **03 Challenge:** Language Limits 
 
 
