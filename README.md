@@ -8,8 +8,22 @@ Welcome to my 30 JavaScript Challenge repository! 🚀 This is where I'll be pos
 ---
 
 ## 🚀 Getting Started
-- **01 Challenge:** Helping the Academy
-- **02 Challenge:** Recursive Procedure 1
-- **03 Challenge:** Language Limits 
+ **01 Challenge:** Helping the Academy.
+  - Write a function that receives a any number of integer numbers as arguments 
+and return their arithmetic mean
+
+**02 Challenge:** Recursive Procedure I.
+  - Write a recursive function that receives a number n and return a string with the following pattern:
+    - If n is 0, return 'empty'
+    - If n is 1, return 'chunks'
+    - If n is 2, return 'chunks-chunks'
+  - Don't use any loop
+
+**03 Challenge:** Language Limits.
+  - Write a function that takes an array as an argument and returns a new array containing all of the items that are in the input array in reverse order.
+  The input array should remain unchanged after the function runs. 
+
+**04 Challenge:** Space Travel Calculations I.
+  - Write a function that receives any integer, squares each of its digits, and then concatenates the result, returning a single integer.
 
 
