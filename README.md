@@ -26,4 +26,10 @@ and return their arithmetic mean
 **04 Challenge:** Space Travel Calculations I.
   - Write a function that receives any integer, squares each of its digits, and then concatenates the result, returning a single integer.
 
+**05 Challenge:** Hidden History I
+  - Write a function that takes a string and returns the
+largest letter in lowercase alphabetical order.
+Assume that the string does not contain any accented letters, numbers or special characters, only letters
+and spaces.
+
 
