@@ -32,4 +32,7 @@ largest letter in lowercase alphabetical order.
 Assume that the string does not contain any accented letters, numbers or special characters, only letters
 and spaces.
 
+**06 Challenge:** Hidden History II
+  - Write a function that takes a string and returns the each word reversed and lowercase, while, keeping the words in the same order.
+
 
