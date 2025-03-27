@@ -11,7 +11,7 @@ function reverseWords(text) {
     return reversedWords.join(' ');
 }
 
-function checkOutput(input) {
+function showOutput(input) {
     for (let i = 0; i < input.length; i++) {
       if (reverseWords(input[i]) === out[i]) {
           console.log(`Input: ${input[i]}\nOutput: ${out[i]}`);
@@ -25,4 +25,4 @@ function checkOutput(input) {
 
 
 
-checkOutput(input);
+showOutput(input);
