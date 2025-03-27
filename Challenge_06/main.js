@@ -1,6 +1,3 @@
-/*Escreva uma função que recebe uma string e retorna cada
-palavra da string invertida e em letras minúsculas, porém
-com as palavras na mesma ordem. */
 let input = ['Lorem ipsum dolore sec avanti', 'This is an apple', 'May the force be with you', 'It s over nine thousand'];
 let out = ['merol muspi erolod ces itnava', 'siht si na elppa', 'yam eht ecrof eb htiw uoy', 'ti s revo enin dnasuoht'];
 
