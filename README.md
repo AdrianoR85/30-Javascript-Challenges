@@ -35,4 +35,7 @@ and spaces.
 **06 Challenge:** Hidden History II
   - Write a function that takes a string and returns the each word reversed and lowercase, while, keeping the words in the same order.
 
+**07 Challenge:** Organizing Results 
+  - Write a function that receives a two-dimensional array of integers and returns a single array containing all the numbers in ascending order.
+
 
